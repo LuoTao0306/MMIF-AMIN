@@ -1,2 +1,2 @@
 # MMIF-AMIN
-This is a MMIF method.The code and models parameters will be available. 
+The core code and model parameters of the method will be made publicly available.
